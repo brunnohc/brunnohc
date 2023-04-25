@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, sou o Brunno</h1>
-<h3 align="center">Estudante Desenvolvedor Full Stack</h3>
+<h3 align="center">Desenvolvedor Full Stack Student</h3>
 
 - 📫 Como entrar em contato comigo **brunnohdlc@gmail.com**
 
