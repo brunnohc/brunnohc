@@ -2,6 +2,7 @@
 <h3 align="center">Development Full Stack Student</h3>
 
 - 📫 How to contact me **brunnohdlc@gmail.com**
+- ⚡ Fun fact **Coffee tastes much better than water | Change my mind!**
 
 
 <p align="left">
