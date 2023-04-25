@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Bruno</h1>
+<h1 align="center">Hello 👋, I'm Brunno</h1>
 <h3 align="center">Development Full Stack Student</h3>
 
 - 📫 Como entrar em contato comigo **brunnohdlc@gmail.com**
