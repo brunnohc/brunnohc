@@ -1,11 +1,13 @@
 <h1 align="center">Hello 👋, I'm Brunno</h1>
 <h3 align="center">Development Full Stack Student</h3>
 
-- 📫 How to contact me **brunnohdlc@gmail.com**
-- ⚡ Fun fact **Coffee tastes much better than water | Change my mind!**
  <p align="center">
 <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
 </p>
+
+- 📫 How to contact me **brunnohdlc@gmail.com**
+- ⚡ Fun fact **Coffee tastes much better than water | Change my mind!**
+
 
 
 <p align="left">
